@@ -1,5 +1,20 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.3.1](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.1)
+
+February 2, 2026
+
+### Additions
+
+- `http.headers.Permissions-Policy.ch-ua-high-entropy-values` ([#28895](https://github.com/mdn/browser-compat-data/pull/28895))
+
+### Statistics
+
+- 5 contributors have changed 10 files with 84 additions and 38 deletions in 8 commits ([`v7.3.0...v7.3.1`](https://github.com/mdn/browser-compat-data/compare/v7.3.0...v7.3.1))
+- 19,222 total features
+- 1,221 total contributors
+- 5,577 total stargazers
+
 ## [v7.3.0](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.0)
 
 January 30, 2026
